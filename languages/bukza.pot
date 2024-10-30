@@ -1,0 +1,18 @@
+# Bukza
+msgid ""
+msgstr ""
+"Project-Id-Version: Bukza v.1.0\n"
+"Report-Msgid-Bugs-To: Bukza <support@bukza.com>\n"
+"POT-Creation-Date: 2018-10-10 03:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Mikhail Kolesnikov <kolesnikovmick@gmail.com>\n"
+"Language-Team: Bukza <support@bukza.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+
+
